@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KRISHNAA-01
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning full stack web development.
-- 💞️ I’m looking to collaborate on a projrct to carve my programming skills as an absulute beginner
+- 🤠 I’m looking to collaborate on a projrct to carve my programming skills as an absulute beginner
 - 📫 How to reach me: mail address- bhisekrishnaa@gmail.com
                       
 
